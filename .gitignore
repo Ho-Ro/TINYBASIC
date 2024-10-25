@@ -1,0 +1,18 @@
+# linux backup files
+*~
+.*~
+
+# intermediate work products
+*.bak
+*.new
+*.old
+*.orig
+*.work
+
+# build artifacts
+*.bin
+*.cim
+*.com
+*.obj
+*.lst
+
